@@ -26,7 +26,7 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-To use this machine learning application simply clone the repository and run the **risk_return_analysis.ipynb** with:
+To use this machine learning application simply clone the repository and run the **san_francisco_housing.ipynb** with:
 
 ```python
   san_francisco_housing.ipynb
