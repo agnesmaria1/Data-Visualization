@@ -8,7 +8,7 @@ This is a Jupyter notebook analyzing housing rental market data for San Fransisc
 
 This project leverages python 3.7 with the following package:
 
-* [Pandas](https://pandas.pydata.org/) - For the machine learning, data analysis, and entrypoint.
+* [Pandas](https://pandas.pydata.org/) - For the data analysis and entrypoint.
 
 ---
 
